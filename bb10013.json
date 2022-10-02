@@ -20,7 +20,7 @@
 
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
-{"name":"公众号：应用多多","url":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
+{"name":"公众号应用多多","url":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
 {"name":"🚀暖光影视","url":"https://app.bl210.com/api.php/v1.vod"},
 {"name":"🚀52看剧(萝卜)","url":"http://tool.xxmlb.com/qingdoujiekou.php/v1.vod"},
 {"name":"🚀影库","url":"https://yingkudy.com/lvdou_api.php/v1.vod"},
