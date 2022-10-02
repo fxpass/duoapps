@@ -9,7 +9,6 @@
 {"key":"推送","title":"远程推送","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/07.jpg"},
 {"key":"待添加","title":"待添加","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/08.jpg"}
 ],
-
 "zhuyejiekou": [
 {"name":"公众号：应用多多","url":"https://www..idianying.com.cn/mogai_api.php/v1.vod"},
 {"name":"爱酷影院","url":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
