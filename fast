@@ -1,0 +1,14 @@
+{
+"storeHouse": [
+
+{"sourceName":"应用多多①号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/1"},
+{"sourceName":"应用多多②号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/2"},
+{"sourceName":"应用多多③号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/3"},
+{"sourceName":"应用多多④号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/4"},
+{"sourceName":"应用多多⑤号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/5"},
+{"sourceName":"应用多多⑥号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/6"},
+{"sourceName":"应用多多⑦号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/7"},
+{"sourceName":"应用多多⑧号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/8"},
+{"sourceName":"应用多多⑨号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/9"},
+{"sourceName":"应用多多⑩号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/10"}
+]}
